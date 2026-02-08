@@ -1,0 +1,6 @@
+tasks:
+  - name: Init
+    init: |
+      echo "Gitpod initialized for aws-examples"
+    command: |
+      echo "Workspace ready"
